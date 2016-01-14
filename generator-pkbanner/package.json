@@ -1,0 +1,21 @@
+{
+  "name": "generator-pkbanner",
+  "version": "0.0.0",
+  "description": "scaffold an html5 banner with typical interaction classes",
+  "homepage": "http://plusk.com",
+  "author": {
+    "name": "Kirby Szeto",
+    "email": "kirby@plusk.com",
+    "url": "http://plusk.com"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators\\index.js",
+  "keywords": [
+    "html5",
+    "banner",
+    "javascript",
+    "gwd"
+  ]
+}
